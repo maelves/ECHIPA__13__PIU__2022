@@ -74,7 +74,7 @@ const Login = (props) => {
                             </div>
                         </div>
                         <input
-                            type="text"
+                            type="password"
                             id="password"
                             name="Password"
                             required
