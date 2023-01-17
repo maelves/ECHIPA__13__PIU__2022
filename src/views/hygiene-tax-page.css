@@ -1,0 +1,1123 @@
+.hygiene-tax-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hygiene-tax-page-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.hygiene-tax-page-hygiene-tax-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hygiene-tax-page-container2 {
+  top: 150px;
+  left: 20px;
+  right: 900px;
+  width: 600px;
+  height: 600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  padding-left: 655px;
+}
+.hygiene-tax-page-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 600px;
+  height: 642px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 187, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+  justify-content: center;
+}
+.hygiene-tax-page-text {
+  top: 0px;
+  left: 130px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text02 {
+  top: 0px;
+  left: 220px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text04 {
+  top: 0px;
+  left: 305px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text05 {
+  top: 0px;
+  left: 385px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text06 {
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  bottom: 21px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text08 {
+  top: 0px;
+  left: 465px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text09 {
+  top: 0px;
+  left: 75px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text10 {
+  top: 0px;
+  left: 545px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text11 {
+  top: 76px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text12 {
+  top: 224px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text13 {
+  top: 149px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text15 {
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 187px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text17 {
+  top: 305px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text19 {
+  top: 477px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-checkbox {
+  top: 80px;
+  left: 65px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox01 {
+  top: 162px;
+  left: 77px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox02 {
+  top: 407px;
+  left: 80px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox03 {
+  top: 239px;
+  left: 75px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox04 {
+  top: 488px;
+  left: 81px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox05 {
+  top: 315px;
+  left: 77px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox06 {
+  left: 79px;
+  width: var(--dl-size-size-small);
+  bottom: 24px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox07 {
+  top: 80px;
+  left: 140px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox08 {
+  top: 162px;
+  left: 150px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox09 {
+  top: 408px;
+  left: 154px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox10 {
+  top: 239px;
+  left: 148px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox11 {
+  top: 483px;
+  left: 151px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox12 {
+  top: 316px;
+  left: 153px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox13 {
+  left: 154px;
+  width: var(--dl-size-size-small);
+  bottom: 30px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox14 {
+  top: 80px;
+  left: 220px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox15 {
+  top: 162px;
+  left: 230px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox16 {
+  top: 405px;
+  left: 231px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox17 {
+  top: 239px;
+  left: 228px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox18 {
+  top: 487px;
+  left: 229px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox19 {
+  top: 316px;
+  left: 229px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox20 {
+  left: 234px;
+  width: var(--dl-size-size-small);
+  bottom: 31px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox21 {
+  top: 80px;
+  left: 300px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox22 {
+  top: 162px;
+  left: 312px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox23 {
+  top: 399px;
+  left: 313px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox24 {
+  top: 239px;
+  left: 310px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox25 {
+  top: 483px;
+  left: 318px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox26 {
+  top: 316px;
+  left: 311px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox27 {
+  left: 318px;
+  width: var(--dl-size-size-small);
+  bottom: 30px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox28 {
+  top: 80px;
+  left: 380px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox29 {
+  top: 162px;
+  left: 392px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox30 {
+  top: 407px;
+  left: 391px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox31 {
+  top: 239px;
+  left: 389px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox32 {
+  top: 480px;
+  right: 82px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox33 {
+  top: 486px;
+  left: 394px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox34 {
+  left: 457px;
+  width: var(--dl-size-size-small);
+  bottom: 28px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox35 {
+  top: 80px;
+  left: 460px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox36 {
+  top: 162px;
+  left: 464px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox37 {
+  top: 412px;
+  right: 10px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox38 {
+  top: 239px;
+  right: 8px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox39 {
+  right: 8px;
+  width: var(--dl-size-size-small);
+  bottom: 32px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox40 {
+  top: 317px;
+  right: 13px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox41 {
+  top: 492px;
+  right: 10px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox42 {
+  top: 80px;
+  left: 540px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox43 {
+  top: 162px;
+  right: 8px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox44 {
+  top: 316px;
+  right: 82px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox45 {
+  top: 239px;
+  right: 76px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox46 {
+  left: 392px;
+  width: var(--dl-size-size-small);
+  bottom: 35px;
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox47 {
+  top: 406px;
+  right: 86px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-checkbox48 {
+  top: 313px;
+  left: 391px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.hygiene-tax-page-group12 {
+  top: 650px;
+  right: 475px;
+  width: 323.74163818359375px;
+  height: 49px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hygiene-tax-page-navlink {
+  display: contents;
+}
+.hygiene-tax-page-component {
+  text-decoration: none;
+}
+.hygiene-tax-page-text21 {
+  top: 140px;
+  color: rgb(0, 0, 0);
+  right: 520px;
+  width: 198px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-text22 {
+  top: 265px;
+  left: 693px;
+  color: rgba(0, 0, 0, 1);
+  width: 216px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hygiene-tax-page-i-m-a-g-e5803964broomcleaningmopmoppingicon1 {
+  right: 42px;
+  width: 399px;
+  bottom: 54px;
+  height: 410px;
+  position: absolute;
+  border-color: transparent;
+}
+.hygiene-tax-page-container3 {
+  flex: 0 0 auto;
+  width: 254px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.hygiene-tax-page-image {
+  width: 254px;
+  height: 129px;
+  object-fit: cover;
+}
+.hygiene-tax-page-checkbox49 {
+  top: 140px;
+  right: 475px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox50 {
+  top: 205px;
+  right: 475px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox51 {
+  top: 140px;
+  right: 375px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox52 {
+  top: 205px;
+  right: 375px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox53 {
+  top: 140px;
+  right: 275px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox54 {
+  top: 205px;
+  right: 276px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox55 {
+  top: 140px;
+  right: 75px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox56 {
+  top: 205px;
+  right: 75px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-text24 {
+  top: 150px;
+  right: 420px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text25 {
+  top: 215px;
+  right: 420px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text26 {
+  top: 150px;
+  right: 320px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text27 {
+  top: 215px;
+  right: 320px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text28 {
+  top: 150px;
+  right: 20px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text29 {
+  top: 215px;
+  right: 20px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text30 {
+  top: 150px;
+  right: 220px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text31 {
+  top: 215px;
+  right: 220px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text32 {
+  top: 147px;
+  right: 120px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-text33 {
+  top: 212px;
+  right: 120px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  font-size: 30px;
+}
+.hygiene-tax-page-textarea {
+  top: 311px;
+  right: 20px;
+  width: 712px;
+  height: 188px;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  border-color: var(--dl-color-primary-100);
+  border-width: 3px;
+  padding-left: 0px;
+}
+.hygiene-tax-page-checkbox57 {
+  top: 140px;
+  right: 175px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-checkbox58 {
+  top: 205px;
+  right: 175px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  max-width: var(--dl-size-size-small);
+  min-width: var(--dl-size-size-small);
+  transition: 0.3s;
+}
+
+.hygiene-tax-page-butoane-bara {
+  top: 8px;
+  right: 16px;
+  width: 311px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  padding-bottom: 77px;
+}
+.hygiene-tax-page-navlink1 {
+  display: contents;
+}
+.hygiene-tax-page-i-m-a-g-e1976053homehomepagehomepagehomepagesicon1 {
+  top: 7px;
+  right: -5px;
+  width: 111px;
+  bottom: -15px;
+  height: 79px;
+  margin: var(--dl-space-space-halfunit);
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.hygiene-tax-page-thq-dropdown {
+  left: 30px;
+  bottom: 2px;
+  cursor: pointer;
+  display: inline-block;
+  position: absolute;
+  border-radius: var(--dl-radius-radius-radius2);
+  background-size: cover;
+  background-image: url("/playground_assets/pastedimage-ql0q-400w.png");
+}
+.hygiene-tax-page-dropdown-toggle {
+  fill: #595959;
+  color: #595959;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  display: inline-flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius2);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.hygiene-tax-page-dropdown-arrow {
+  transition: 0.3s;
+}
+.hygiene-tax-page-icon {
+  width: 18px;
+  height: 18px;
+  margin-top: auto;
+  transition: 0.3s;
+  margin-bottom: auto;
+}
+.hygiene-tax-page-dropdown-list {
+  left: var(--dl-space-space-halfunit);
+  right: var(--dl-space-space-sixunits);
+  width: max-content;
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  transition: 0.3s;
+  align-items: stretch;
+  border-color: #D9D9D9;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  list-style-type: none;
+  background-color: var(--dl-color-gray-white);
+  list-style-position: inside;
+}
+.hygiene-tax-page-dropdown {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.hygiene-tax-page-dropdown-toggle1 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.hygiene-tax-page-dropdown-toggle1:hover {
+  fill: #fff;
+  color: #fff;
+  background-color: #595959;
+}
+.hygiene-tax-page-text34 {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.hygiene-tax-page-dropdown1 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.hygiene-tax-page-dropdown-toggle2 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.hygiene-tax-page-dropdown-toggle2:hover {
+  fill: #fff;
+  color: #fff;
+  background-color: #595959;
+}
+.hygiene-tax-page-text35 {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.hygiene-tax-page-dropdown2 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.hygiene-tax-page-dropdown-toggle3 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.hygiene-tax-page-dropdown-toggle3:hover {
+  fill: #fff;
+  color: #fff;
+  background-color: #595959;
+}
+.hygiene-tax-page-text36 {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.hygiene-tax-page-navlink2 {
+  display: contents;
+}
+.hygiene-tax-page-i-m-a-g-e4092561envelopemailmobileuimessageemailicon1 {
+  top: 12px;
+  left: 93px;
+  width: 111px;
+  bottom: -23px;
+  height: 79px;
+  margin: var(--dl-space-space-halfunit);
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}

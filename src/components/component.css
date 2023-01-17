@@ -1,0 +1,40 @@
+.component-container {
+  width: 324px;
+  height: 49px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.component-rectangle14 {
+  top: 0px;
+  left: 54px;
+  width: 210px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.component-text {
+  top: 2px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component-root-class-name {
+  left: 0px;
+  margin: auto;
+  position: absolute;
+}

@@ -1,0 +1,592 @@
+.card-payment-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.card-payment-page-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.card-payment-page-card-payment-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: #000000;
+  border-width: 3px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.card-payment-page-menu {
+  top: 51px;
+  left: 1320px;
+  width: 48px;
+  height: 42px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.card-payment-page-line1 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+}
+.card-payment-page-line2 {
+  top: 21px;
+  left: 0px;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+}
+.card-payment-page-line3 {
+  top: 42px;
+  left: 0px;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+}
+.card-payment-page-frame9165458savingmoneyicon1 {
+  top: 440px;
+  left: 854px;
+  width: 561px;
+  height: 554px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.card-payment-page-group {
+  top: 1.7079131603240967px;
+  left: 2.5028340816497803px;
+  width: 556.4337768554688px;
+  height: 550.8021850585938px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.card-payment-page-vector {
+  top: 329.0046691894531px;
+  left: 2.3525517178768496e-7px;
+  width: 556px;
+  height: 222px;
+  position: absolute;
+}
+.card-payment-page-vector01 {
+  top: 131.18215942382812px;
+  left: 153.11961364746094px;
+  width: 200px;
+  height: 201px;
+  position: absolute;
+}
+.card-payment-page-vector02 {
+  top: 365.86151123046875px;
+  left: 42.25455856323242px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.card-payment-page-vector03 {
+  top: 165.87094116210938px;
+  left: 219.19772338867188px;
+  width: 63px;
+  height: 133px;
+  position: absolute;
+}
+.card-payment-page-vector04 {
+  top: 34.31559371948242px;
+  left: 398.4239807128906px;
+  width: 63px;
+  height: 131px;
+  position: absolute;
+}
+.card-payment-page-vector05 {
+  top: 7.966622916910637e-8px;
+  left: 329.9892272949219px;
+  width: 200px;
+  height: 201px;
+  position: absolute;
+}
+.card-payment-page-text {
+  top: 165px;
+  left: 174px;
+  color: rgba(24, 196, 255, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.card-payment-page-text02 {
+  top: 265px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.card-payment-page-text04 {
+  top: 435px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.card-payment-page-text09 {
+  top: 440px;
+  left: 381px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.card-payment-page-text11 {
+  top: 596px;
+  left: 107px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.card-payment-page-group1 {
+  top: 323px;
+  left: 682px;
+  width: 125.00294494628906px;
+  height: 67.47258758544922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.card-payment-page-group2 {
+  top: 0px;
+  left: 0px;
+  width: 125.00294494628906px;
+  height: 67.47258758544922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.card-payment-page-vector06 {
+  top: -0.000030196340958354995px;
+  left: 50.19453811645508px;
+  width: 75px;
+  height: 67px;
+  position: absolute;
+}
+.card-payment-page-vector07 {
+  top: 0.0007170671015046537px;
+  left: -0.00011404041288187727px;
+  width: 75px;
+  height: 67px;
+  position: absolute;
+}
+.card-payment-page-vector08 {
+  top: 40.48385238647461px;
+  left: 120.02806091308594px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.card-payment-page-vector09 {
+  top: 27.683452606201172px;
+  left: 43.66981887817383px;
+  width: 8px;
+  height: 16px;
+  position: absolute;
+}
+.card-payment-page-vector10 {
+  top: 29.421167373657227px;
+  left: 51.29337692260742px;
+  width: 13px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector11 {
+  top: 26.583293914794922px;
+  left: 2.3903675079345703px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+}
+.card-payment-page-vector12 {
+  top: 29.421167373657227px;
+  left: 20.47863006591797px;
+  width: 13px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector13 {
+  top: 26.177913665771484px;
+  left: 63.631919860839844px;
+  width: 23px;
+  height: 18px;
+  position: absolute;
+}
+.card-payment-page-vector14 {
+  top: 26.583026885986328px;
+  left: 97.09528350830078px;
+  width: 23px;
+  height: 17px;
+  position: absolute;
+}
+.card-payment-page-vector15 {
+  top: 29.421167373657227px;
+  left: 84.30403137207031px;
+  width: 13px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector16 {
+  top: 29.421167373657227px;
+  left: 32.623531341552734px;
+  width: 11px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector17 {
+  top: 25.135934829711914px;
+  left: 73.6452407836914px;
+  width: 14px;
+  height: 18px;
+  position: absolute;
+}
+.card-payment-page-vector18 {
+  top: 28.55244255065918px;
+  left: 64.6659927368164px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector19 {
+  top: 26.583026885986328px;
+  left: 44.70389175415039px;
+  width: 8px;
+  height: 16px;
+  position: absolute;
+}
+.card-payment-page-vector20 {
+  top: 28.378122329711914px;
+  left: 33.72148513793945px;
+  width: 11px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector21 {
+  top: 25.482389450073242px;
+  left: 105.94499969482422px;
+  width: 15px;
+  height: 17px;
+  position: absolute;
+}
+.card-payment-page-vector22 {
+  top: 28.320531845092773px;
+  left: 52.197689056396484px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+}
+.card-payment-page-vector23 {
+  top: 25.482389450073242px;
+  left: 3.6178557872772217px;
+  width: 19px;
+  height: 17px;
+  position: absolute;
+}
+.card-payment-page-vector24 {
+  top: 28.378122329711914px;
+  left: 21.5770263671875px;
+  width: 13px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector25 {
+  top: 28.378122329711914px;
+  left: 85.53218078613281px;
+  width: 13px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-vector26 {
+  top: 28.55244255065918px;
+  left: 98.12846374511719px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.card-payment-page-frame3057653mediapaymentsocialvisaicon1 {
+  top: 299px;
+  left: 838px;
+  width: 156px;
+  height: 115px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.card-payment-page-layer2 {
+  top: 42.765625px;
+  left: 16.331249237060547px;
+  width: 123.33749389648438px;
+  height: 29.109376907348633px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.card-payment-page-vector27 {
+  top: 0.5390632152557373px;
+  left: 43.38749694824219px;
+  width: 16px;
+  height: 28px;
+  position: absolute;
+}
+.card-payment-page-vector28 {
+  top: 0.5390632152557373px;
+  left: 87.5062484741211px;
+  width: 36px;
+  height: 29px;
+  position: absolute;
+}
+.card-payment-page-vector29 {
+  top: -0.0000013709068298339844px;
+  left: 59.47500228881836px;
+  width: 30px;
+  height: 29px;
+  position: absolute;
+}
+.card-payment-page-vector30 {
+  top: 0.5390632152557373px;
+  left: -1.4901161193847656e-7px;
+  width: 45px;
+  height: 28px;
+  position: absolute;
+}
+.card-payment-page-navlink {
+  display: contents;
+}
+.card-payment-page-group11 {
+  top: 808px;
+  left: 174px;
+  width: 358px;
+  height: 73.68367004394531px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: transparent;
+}
+.card-payment-page-rectangle14 {
+  top: 0px;
+  left: 0px;
+  width: 358px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.card-payment-page-text13 {
+  top: 12px;
+  left: 17px;
+  color: rgba(255, 255, 255, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.card-payment-page-image {
+  width: 254px;
+  height: 129px;
+  object-fit: cover;
+}
+.card-payment-page-textinput {
+  top: 492px;
+  left: 346px;
+  width: 192px;
+  height: 67px;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  border-color: var(--dl-color-primary-100);
+  border-width: 3px;
+}
+.card-payment-page-textinput1 {
+  top: 494px;
+  left: var(--dl-space-space-sixunits);
+  width: 192px;
+  height: 67px;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  border-color: var(--dl-color-primary-100);
+  border-width: 3px;
+}
+.card-payment-page-textinput2 {
+  top: 330px;
+  left: var(--dl-space-space-sixunits);
+  width: 502px;
+  height: 73px;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  border-color: var(--dl-color-primary-100);
+  border-width: 3px;
+}
+.card-payment-page-textinput3 {
+  top: 656px;
+  left: var(--dl-space-space-sixunits);
+  width: 502px;
+  height: 73px;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  border-color: var(--dl-color-primary-100);
+  border-width: 3px;
+}
